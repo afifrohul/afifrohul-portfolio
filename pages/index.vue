@@ -65,6 +65,12 @@
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'IndexPage',
+  
+  head () {
+    return {
+      title: 'Home | Afif Rohul',
+    }
+  }
 }
 </script>

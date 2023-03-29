@@ -107,3 +107,13 @@
     <hr class="mt-8">
   </div>
 </template>
+
+<script>
+export default {  
+  head () {
+    return {
+      title: 'Project | Afif Rohul',
+    }
+  }
+}
+</script>
