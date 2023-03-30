@@ -5,7 +5,7 @@
     <hr class="mt-8">
     <div class="grid grid-cols-2 gap-4 mt-6">
       <a href="https://hmifunej.id/" target="_blank">
-        <div class="border-2 rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
+        <div class="border-2 min-h-full rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
           <div class="max-w-sm rounded overflow-hidden">
             <img class="w-full" src="/images/hmifunej.png" alt="hmifunej">
             <div class="px-2 py-4">
@@ -40,7 +40,7 @@
         </div>
       </a>
       <a href="https://ifmerch.hmifunej.id/" target="_blank">
-        <div class="border-2 rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
+        <div class="border-2 min-h-full rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
           <div class="max-w-sm rounded overflow-hidden">
             <img class="w-full" src="/images/ifmerch.png" alt="ifmerch">
             <div class="px-2 py-4">
@@ -75,7 +75,7 @@
         </div>
       </a>
       <a href="https://magmasmasa.github.io/" target="_blank">
-        <div class="border-2 rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
+        <div class="border-2 min-h-full rounded-md hover:scale-105 transition-all duration-500 shadow-sm hover:shadow-md ease-linear">
           <div class="max-w-sm rounded overflow-hidden">
             <img class="w-full" src="/images/magmasmasa.png" alt="magmasmasa">
             <div class="px-2 py-4">
